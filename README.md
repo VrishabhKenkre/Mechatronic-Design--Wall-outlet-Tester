@@ -9,4 +9,4 @@ during testing, is significantly reduced, ensuring a safer operation. Additional
 human error, speeds up the inspection process, and provides a scalable solution adaptable to other
 inspection and maintenance tasks in industries like construction, facility management, and safety testing.
 Furthermore, all of the same technology can be used to allow mobile robots to recharge themselves.
-1
+
